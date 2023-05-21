@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\ProiectFIS\ProiectFIS\bin\Debug\ProiectFIS.exe.config
+C:\Users\User\source\repos\ProiectFIS\ProiectFIS\bin\Debug\ProiectFIS.exe
+C:\Users\User\source\repos\ProiectFIS\ProiectFIS\bin\Debug\ProiectFIS.pdb
+C:\Users\User\source\repos\ProiectFIS\ProiectFIS\obj\Debug\ProiectFIS.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ProiectFIS\ProiectFIS\obj\Debug\ProiectFIS.Angajat.resources
+C:\Users\User\source\repos\ProiectFIS\ProiectFIS\obj\Debug\ProiectFIS.Client.resources
+C:\Users\User\source\repos\ProiectFIS\ProiectFIS\obj\Debug\ProiectFIS.Curier.resources
+C:\Users\User\source\repos\ProiectFIS\ProiectFIS\obj\Debug\ProiectFIS.Pornire.resources
+C:\Users\User\source\repos\ProiectFIS\ProiectFIS\obj\Debug\ProiectFIS.Properties.Resources.resources
+C:\Users\User\source\repos\ProiectFIS\ProiectFIS\obj\Debug\ProiectFIS.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ProiectFIS\ProiectFIS\obj\Debug\ProiectFIS.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ProiectFIS\ProiectFIS\obj\Debug\ProiectFIS.exe
+C:\Users\User\source\repos\ProiectFIS\ProiectFIS\obj\Debug\ProiectFIS.pdb
+C:\Users\User\source\repos\ProiectFIS\ProiectFIS\obj\Debug\ProiectFIS.Inregistrare.resources

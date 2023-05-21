@@ -1,0 +1,6 @@
+nicutavaleria02@gmail.com,12345678
+test_utilizator,2312312
+inca_unul,alabala
+inca_un_text,portocala
+
+test_inregistrare,123456

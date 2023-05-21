@@ -1,0 +1,4 @@
+﻿nicutavaleria02@gmail.com,12345678
+test_utilizator,2312312
+inca_un_test,alabala
+anotha_one,portocala
