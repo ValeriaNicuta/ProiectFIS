@@ -3,4 +3,4 @@ test_utilizator,2312312
 inca_un_test,alabala
 anotha_one,portocala
 
-!ASTA NU-I BUN!
+!ASTA NU-I BUN, DAR MA TEM SA-L STERG!!
