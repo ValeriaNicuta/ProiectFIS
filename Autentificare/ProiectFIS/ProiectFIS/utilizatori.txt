@@ -2,3 +2,5 @@
 test_utilizator,2312312
 inca_un_test,alabala
 anotha_one,portocala
+
+!ASTA NU-I BUN!
