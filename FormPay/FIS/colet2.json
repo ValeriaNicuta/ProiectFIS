@@ -1,0 +1,32 @@
+[
+
+  {
+    "NumeClient": "dsadasdasdsa",
+    "PrenumeClient": "",
+    "OrasClient": "Timisoara",
+    "TelefonClient": "",
+    "NumeDestinatar": "",
+    "PrenumeDestinatar": "",
+    "OrasDestinatar": "Bucuresti",
+    "TelefonDestinatar": "",
+    "GreutateColet": 1.0,
+    "CategorieColet": "Normal",
+    "Status": "In tranzit direct...",
+    "ID": "fef432df-46e7-45dc-bb81-dd4b10fa9869"
+  },
+
+  {
+    "NumeClient": "dsadasdasdsa",
+    "PrenumeClient": "",
+    "OrasClient": "Timisoara",
+    "TelefonClient": "",
+    "NumeDestinatar": "",
+    "PrenumeDestinatar": "",
+    "OrasDestinatar": "Bucuresti",
+    "TelefonDestinatar": "",
+    "GreutateColet": 1.0,
+    "CategorieColet": "Normal",
+    "Status": "In tranzit direct...",
+    "ID": "fef432df-46e7-45dc-bb81-dd4b10fa9869"
+  }
+]
