@@ -1,0 +1,12 @@
+C:\Users\nisto\source\repos\ProiectFis\ProiectFis\bin\Debug\ProiectFis.exe.config
+C:\Users\nisto\source\repos\ProiectFis\ProiectFis\bin\Debug\ProiectFis.exe
+C:\Users\nisto\source\repos\ProiectFis\ProiectFis\bin\Debug\ProiectFis.pdb
+C:\Users\nisto\source\repos\ProiectFis\ProiectFis\obj\Debug\ProiectFis.csproj.AssemblyReference.cache
+C:\Users\nisto\source\repos\ProiectFis\ProiectFis\obj\Debug\ProiectFis.csproj.SuggestedBindingRedirects.cache
+C:\Users\nisto\source\repos\ProiectFis\ProiectFis\obj\Debug\ProiectFis.Form1.resources
+C:\Users\nisto\source\repos\ProiectFis\ProiectFis\obj\Debug\ProiectFis.Properties.Resources.resources
+C:\Users\nisto\source\repos\ProiectFis\ProiectFis\obj\Debug\ProiectFis.csproj.GenerateResource.cache
+C:\Users\nisto\source\repos\ProiectFis\ProiectFis\obj\Debug\ProiectFis.csproj.CoreCompileInputs.cache
+C:\Users\nisto\source\repos\ProiectFis\ProiectFis\obj\Debug\ProiectFis.exe
+C:\Users\nisto\source\repos\ProiectFis\ProiectFis\obj\Debug\ProiectFis.pdb
+C:\Users\nisto\source\repos\ProiectFis\ProiectFis\obj\Debug\ProiectFis.UserDepunereColet.resources

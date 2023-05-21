@@ -1,0 +1,14 @@
+<DateFormular>
+  <Nume>maria</Nume>
+  <Prenume>maria</Prenume>
+  <Oras>Pitesti</Oras>
+  <Numardetelefon>44566</Numardetelefon>
+  <NumeDestinatar>ioan</NumeDestinatar>
+  <PrenumeDestinatar>ionut</PrenumeDestinatar>
+  <OrasDestinatar>Bucuresti</OrasDestinatar>
+  <NumardetelefonDestinatar>34556</NumardetelefonDestinatar>
+  <Greutatecolet>3</Greutatecolet>
+  <Nume>Pretios</Nume>
+  <PretLivrare>120</PretLivrare>
+  <OreLivrare>85</OreLivrare>
+</DateFormular>
